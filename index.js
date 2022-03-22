@@ -1,7 +1,7 @@
 console.log('Hello World');
 
 
-const ADDRESS = ""; // SMARTCONTRACT
+const ADDRESS = "0xc8944F4c0Cb3346563fE273455f7B264393fC546"; // SMARTCONTRACT
 const abicreateaddress = [
 	{
 		"anonymous": false,
